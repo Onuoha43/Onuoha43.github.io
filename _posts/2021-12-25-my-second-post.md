@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Introduction to Python
+title: Introduction to Tech
 subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+categories: Tech
+tags: [Tech, intro, Hands on Practical]
 ---
 
-## Introduction to Python
+## Introduction to Tech
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
 
