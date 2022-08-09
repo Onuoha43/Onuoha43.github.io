@@ -8,7 +8,7 @@ tags: [Tech, intro, Hands on Practical]
 
 ## Introduction to Tech
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+In this post You'll learn about Tech, how to build your  career in Tech even without any knowledge
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
