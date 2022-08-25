@@ -9,7 +9,5 @@ tags: [Markdown, journaling, blog]
 ## Importance of Cloud Solution
 
 ```Python
-
-print("hello world!")
-
+cloud solution offers web based services
 ```
