@@ -11,3 +11,5 @@ tags: [Markdown, journaling, blog]
 ```Python
 cloud solution offers web based services
 ```
+`Testing the Items for notetaking`
+This is a good course **I love TEA** and all *teams*
