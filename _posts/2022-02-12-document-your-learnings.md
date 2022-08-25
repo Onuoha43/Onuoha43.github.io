@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech in Hotel        
+title: Cloud solution Architect     
 subtitle: Implementing Tech in Hotels
 categories: Markdown
 tags: [Markdown, journaling, blog]
