@@ -6,4 +6,4 @@ categories: Markdown
 tags: [Markdown, journaling, blog]
 ---
 
-# Importance of Cloud Solution
+## Importance of Cloud Solution
